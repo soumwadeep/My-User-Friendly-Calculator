@@ -19,3 +19,5 @@ WITHOUT ANY PROBLEMS.
 4)This Calculator Can Solve Negative Integers,Decimal Values And Numerical Problems In All The Operations.
 
 5)Solves All The Numericals Very Fast Without Any Errors.
+
+JUST OPEN THE calculator.cpp AND TEST IT.
